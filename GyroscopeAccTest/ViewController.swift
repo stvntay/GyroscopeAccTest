@@ -40,7 +40,7 @@ class ViewController: UIViewController {
     
     var isFlag = false
     
-    var stepTimer : [[Int]] = [[10,12],[20,21]]
+    var stepTimer : [[Int]] = [[7,10],[6,13]]
     
     var time: Int = 0
     
